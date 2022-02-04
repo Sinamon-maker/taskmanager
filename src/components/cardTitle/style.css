@@ -1,0 +1,15 @@
+.card-title__heading{
+  padding: 1rem 0.5rem;
+  margin: 0;
+}
+
+.card-title{
+  position: relative;
+}
+
+.subcards{
+  position: absolute;
+  top:-1rem;
+  right: -105%;
+}
+

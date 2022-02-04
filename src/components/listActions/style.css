@@ -1,0 +1,14 @@
+.actions-content {
+    position: relative;
+    width: 100%;
+}
+
+.actions-list {
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+}
+
+.actions-list__item {
+    width: 100%;
+}

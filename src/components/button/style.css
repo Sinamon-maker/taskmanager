@@ -1,0 +1,50 @@
+.btn{
+  outline: none;
+  border: 0;
+  padding: 1rem;
+  color: white;
+  background-color: aquamarine;
+  cursor: pointer;
+}
+
+.actions-detailes{
+  width: 100%;
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+  background-color: rgb(44, 56, 66);
+  color: rgb(198, 200, 204);
+   border-bottom-left-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+.actions-detailes:hover{
+  background-color: rgb(52, 66, 78);
+}
+
+.actions-item{
+  display: inline-block;
+  width: 100%;
+  background-color: aliceblue;
+
+  color: rgb(15, 15, 15);
+}
+
+.actions-item:hover{
+  background-color: rgb(255, 255, 255);
+  color: rgba(19, 18, 18, 0.5);
+}
+
+.edit-button{
+  background-color: rgb(25, 25, 129);
+  color: rgb(240, 234, 234);
+}
+.edit-button:hover{
+  background-color: rgb(73, 73, 238);
+
+}
+
+.button-more{
+  position: absolute;
+  top: 2px;
+  right: 0;
+  background-color: transparent;
+}
